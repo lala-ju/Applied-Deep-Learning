@@ -1,0 +1,5 @@
+train loss at epoch 0: 1.0859025716781616
+train loss at epoch 1: 0.6189504861831665
+train loss at epoch 2: 0.517453670501709
+train loss at epoch 3: 0.40749165415763855
+train loss at epoch 4: 0.3006895184516907

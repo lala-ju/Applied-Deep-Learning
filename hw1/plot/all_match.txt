@@ -1,0 +1,5 @@
+valid exact match at epoch 0: {'exact_match': 77.16849451645065, 'f1': 77.16849451645065}
+valid exact match at epoch 1: {'exact_match': 78.79694250581589, 'f1': 78.79694250581589}
+valid exact match at epoch 2: {'exact_match': 77.73346626786308, 'f1': 77.73346626786308}
+valid exact match at epoch 3: {'exact_match': 78.73047524094383, 'f1': 78.73047524094383}
+valid exact match at epoch 4: {'exact_match': 78.99634430043204, 'f1': 78.99634430043204}

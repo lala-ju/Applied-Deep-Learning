@@ -1,0 +1,6 @@
+rouge,loss,steps
+"{'rouge1': 9.2336, 'rouge2': 3.7738, 'rougeL': 9.2077, 'rougeLsum': 9.1687}",0.0,5428
+"{'rouge1': 12.0416, 'rouge2': 4.4265, 'rougeL': 11.8913, 'rougeLsum': 11.8913}",0.0,10856
+"{'rouge1': 15.4599, 'rouge2': 5.7953, 'rougeL': 15.2663, 'rougeLsum': 15.2613}",0.0,16284
+"{'rouge1': 16.627, 'rouge2': 6.0372, 'rougeL': 16.438, 'rougeLsum': 16.4287}",0.0,21712
+"{'rouge1': 16.7323, 'rouge2': 5.9999, 'rougeL': 16.5185, 'rougeLsum': 16.4731}",0.0,27140
